@@ -74,7 +74,7 @@ h2 {
 	color: #161a1b;
 }
 
-#countdown div span {
+#nowTime div span {
 	display:block;
 	font-size: 50px;
 	line-height: 50px;
@@ -83,7 +83,7 @@ h2 {
 	text-transform: uppercase;
 }
 
-#countdown div {
+#nowTime div {
 	display:inline-block;
     margin: 0 34px;
 }
@@ -330,7 +330,7 @@ h2 {
 @media (max-width: 320px) {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
-	#countdown div span {font-size: 24px; line-height: 34px;}
+	#nowTime div span {font-size: 24px; line-height: 34px;}
 	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
@@ -408,7 +408,7 @@ h2 {
 @media all and (min-width: 400px) {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
-	#countdown div span {font-size: 24px; line-height: 34px;}
+	#nowTime div span {font-size: 24px; line-height: 34px;}
 	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
@@ -568,7 +568,7 @@ h2 {
 	/* HERO */
 	h1 { font-size: 120px; line-height: 120px; }
 
-	#countdown div span {font-size: 34px; line-height: 34px;}
+	#nowTime div span {font-size: 34px; line-height: 34px;}
 	
 	.sub-title { font-size: 20px; line-height: 20px; margin-top: 20px; }
 	/* TITLE & CONTACT */
@@ -650,7 +650,7 @@ h2 {
 @media all and (min-width: 1200px) {
 	/* HERO */
 	h1 { font-size: 150px; line-height: 150px; }
-	#countdown div span {font-size: 44px; line-height: 44px;}
+	#nowTime div span {font-size: 44px; line-height: 44px;}
 	.sub-title { font-size: 25px; line-height: 25px; margin-top: 20px; }
 	/* SIZES */
 	.sphere img{
@@ -838,7 +838,7 @@ h2 {
 @media all and (min-width: 1600px) {
 	/* HERO */
 	h1 { font-size: 180px; line-height: 180px; }
-	#countdown div span {font-size: 54px; line-height: 54px;}
+	#nowTime div span {font-size: 54px; line-height: 54px;}
 	.sub-title { font-size: 25px; line-height: 25px; margin-top: 25px; }
 }
 
